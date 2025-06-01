@@ -19,3 +19,11 @@ Integrating test automation into the development workflow for a more reliable an
 
 This pipeline helps ensure that only tested, working code reaches production, following modern DevOps best practices.
 
+Test Screen Shots :
+ ![Test Screenshot 1](./images/Cyress_Test_ScreenShot.png)
+
+ Website Screen Shot :
+ ![Website Screenshot 1](./images/Test_WebSite_ScreenShot.png)
+
+
+
